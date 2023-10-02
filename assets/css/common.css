@@ -970,7 +970,7 @@
 	margin-bottom: 60px;
 }
 .sec_title > span {
-	color: #d00a2b;
+	color: #EF1E27;
 	font-size: 17px;
 	font-weight: 700;
 	margin-bottom: 12px;
@@ -978,13 +978,13 @@
 	text-transform: uppercase;
 }
 .sec_title > h2 {
-	color: #0c0c0c;
+	color: #fff;
 	font-size: 50px;
 	margin-bottom: 0;
 	line-height: 1.2;
 }
 .sec_title h2 > span {
-	color: #d00a2b;
+	color: #EF1E27;
 }
 /* pagination */
 .pagination_wrap ul {
